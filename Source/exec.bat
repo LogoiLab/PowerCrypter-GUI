@@ -1,1 +1,1 @@
-powershell.exe -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -File ".\temp.ps1"
+powershell.exe -NonInteractive -WindowStyle Hidden -ExecutionPolicy Bypass -File ".\crypter_gui.ps1"
