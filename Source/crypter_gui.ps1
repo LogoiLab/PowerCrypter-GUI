@@ -1,5 +1,4 @@
-﻿$command = {
-$ErrorActionPreference = "SilentlyContinue"
+﻿$ErrorActionPreference = "SilentlyContinue"
 Function Cryptit([string]$file){
 Function New-FUD([string]$FTC){
     $bytes = [System.IO.File]::ReadAllBytes($FTC)
@@ -145,7 +144,3 @@ $wshpop = New-Object -ComObject Wscript.Shell
 $wshpop.Popup("This crypter is provided as is without a warranty. Its creator is not responsible for how, what, why, when, or even where you use this program. This program is designed to minimize the risk of damage to any executables you crypt, but its advanced algorythm has not been tested on some systems. This program's native language(Powershell) is pre-baked into and guarranteed to run on any Windows 7+ systems. If program does not function as intended please try updating Powershell. As a gentle reminder, depending on your computer's hardware it may take a minute to complete a crypt. You will get a notification when the crypting is complete. The crypted executable will be saved to the same folder as the original with the name changed to: originalname.crypted.exe",0,"Help",0x0)
 })
 $Form.ShowDialog() | out-null
-}
-$bytes = [System.Text.Encoding]::Unicode.GetBytes($command)
-$encodedCommand = [Convert]::ToBase64String($bytes)
-Set-Content -Path "C:\Users\cbaxter\Desktop\test.txt" -Value $encodedcommand
