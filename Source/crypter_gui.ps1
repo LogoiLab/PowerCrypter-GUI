@@ -116,13 +116,13 @@ Function Get-FileName($initialDirectory)
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     Title="PowerCrypter" Height="235" Width="568" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="#FF1010C8" BorderBrush="#FF1010C8" Foreground="#FF1210C8" WindowStyle="None">
     <Grid Background="#FF76988F">
-        <Button Name="Browse" Content="Browse" HorizontalAlignment="Left" Margin="483,98,0,0" VerticalAlignment="Top" Width="75" Background="#FFAC8C18" BorderBrush="#FF3F3C29" Foreground="Black" FontFamily="Script MT Bold" IsEnabled="True" Panel.ZIndex="1" Height="23"/>
+        <Label Content="PowerCrypter" HorizontalAlignment="Center" Margin="175,5,177,0" Width="210" Height="57" Foreground="White" FontFamily="Script MT Bold" FontSize="36" FontWeight="Bold" FontStyle="Italic" VerticalAlignment="Top"/>
         <Label Content="Welcome to PowerCrypter, please select a binary executable to crypt:" VerticalAlignment="Top" FontFamily="Script MT Bold" FontSize="16" Width="446" HorizontalAlignment="Center" Margin="61,59,61,0"/>
         <TextBox Name="BrowseBox" HorizontalAlignment="Left" Height="23" Margin="10,98,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="468" BorderBrush="#FF3F3C29" Foreground="Black" SelectionBrush="#FFAC8C18" Background="#FFAC8C18" Panel.ZIndex="1"/>
+        <Button Name="Browse" Content="Browse" HorizontalAlignment="Left" Margin="483,98,0,0" VerticalAlignment="Top" Width="75" Background="#FFAC8C18" BorderBrush="#FF3F3C29" Foreground="Black" FontFamily="Script MT Bold" IsEnabled="True" Panel.ZIndex="1" Height="23"/>
         <Button Name="Crypt" Content="Crypt It!" Margin="10,125,10,0" VerticalAlignment="Top" Background="#FFAC8C18" BorderBrush="#FF3F3C29" Foreground="Black" Height="72" FontFamily="Script MT Bold" FontSize="36" IsEnabled="True" Panel.ZIndex="1"/>
-        <Button Name="Cancel" Content="Cancel" Margin="280,202,10,0" VerticalAlignment="Top" Background="#FFAC8C18" BorderBrush="#FF3F3C29" Foreground="Black" Height="25" FontFamily="Script MT Bold" IsCancel="True" IsEnabled="True" Panel.ZIndex="1"/>
-        <Label Content="PowerCrypter" HorizontalAlignment="Center" Margin="175,5,177,0" Width="210" Height="57" Foreground="White" FontFamily="Script MT Bold" FontSize="36" FontWeight="Bold" FontStyle="Italic" VerticalAlignment="Top"/>
         <Button Name="Help" Content="Help" HorizontalAlignment="Left" Margin="10,202,0,0" VerticalAlignment="Top" Width="265" Background="#FFAC8C18" BorderBrush="#FF3F3C29" Foreground="Black" FontFamily="Script MT Bold" IsEnabled="True" Panel.ZIndex="1" Height="25"/>
+        <Button Name="Cancel" Content="Cancel" Margin="280,202,10,0" VerticalAlignment="Top" Background="#FFAC8C18" BorderBrush="#FF3F3C29" Foreground="Black" Height="25" FontFamily="Script MT Bold" IsCancel="True" IsEnabled="True" Panel.ZIndex="1"/>
     </Grid>
 </Window>
 '@
