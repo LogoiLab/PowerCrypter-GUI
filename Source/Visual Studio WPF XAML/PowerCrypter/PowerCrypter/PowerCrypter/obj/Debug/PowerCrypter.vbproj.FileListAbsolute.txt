@@ -1,0 +1,13 @@
+c:\users\miste\documents\visual studio 2013\Projects\PowerCrypter\PowerCrypter\bin\Debug\PowerCrypter.exe.config
+C:\Users\miste\Documents\Visual Studio 2013\Projects\PowerCrypter\PowerCrypter\bin\Debug\PowerCrypter.exe
+C:\Users\miste\Documents\Visual Studio 2013\Projects\PowerCrypter\PowerCrypter\bin\Debug\PowerCrypter.pdb
+C:\Users\miste\Documents\Visual Studio 2013\Projects\PowerCrypter\PowerCrypter\bin\Debug\PowerCrypter.xml
+C:\Users\miste\Documents\Visual Studio 2013\Projects\PowerCrypter\PowerCrypter\obj\Debug\MainWindow.baml
+C:\Users\miste\Documents\Visual Studio 2013\Projects\PowerCrypter\PowerCrypter\obj\Debug\Application.g.vb
+C:\Users\miste\Documents\Visual Studio 2013\Projects\PowerCrypter\PowerCrypter\obj\Debug\PowerCrypter_MarkupCompile.cache
+C:\Users\miste\Documents\Visual Studio 2013\Projects\PowerCrypter\PowerCrypter\obj\Debug\PowerCrypter.g.resources
+C:\Users\miste\Documents\Visual Studio 2013\Projects\PowerCrypter\PowerCrypter\obj\Debug\PowerCrypter.Resources.resources
+C:\Users\miste\Documents\Visual Studio 2013\Projects\PowerCrypter\PowerCrypter\obj\Debug\PowerCrypter.vbproj.GenerateResource.Cache
+C:\Users\miste\Documents\Visual Studio 2013\Projects\PowerCrypter\PowerCrypter\obj\Debug\PowerCrypter.exe
+C:\Users\miste\Documents\Visual Studio 2013\Projects\PowerCrypter\PowerCrypter\obj\Debug\PowerCrypter.xml
+C:\Users\miste\Documents\Visual Studio 2013\Projects\PowerCrypter\PowerCrypter\obj\Debug\PowerCrypter.pdb
